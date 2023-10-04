@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="CalculateButtonText">Calculate</string>
+    <string name="HeaderText">Morgage Calculator</string>
+    <string name="PrincipalAmountTextboxHint">Principal</string>
+    <string name="InterestRateTextboxHint">Interest Rate</string>
+    <string name="PrincipalAmountLabel">Principal Amount</string>
+    <string name="interestRateLabel" >Interest Rate(%)</string>
+    <string name="amortariztionPeriodLabel">Amortization Period</string>
+    <string-array name="listYears">
+        <item>0 years</item>
+        <item>1 years</item>
+        <item>2 years</item>
+        <item>3 years</item>
+        <item>4 years</item>
+        <item>5 years</item>
+        <item>6 years</item>
+        <item>7 years</item>
+        <item>8 years</item>
+        <item>9 years</item>
+        <item>10 years</item>
+        <item>11 years</item>
+        <item>12 years</item>
+        <item>13 years</item>
+        <item>14 years</item>
+        <item>15 years</item>
+        <item>16 years</item>
+        <item>17 years</item>
+        <item>18 years</item>
+        <item>19 years</item>
+        <item>20 years</item>
+        <item>21 years</item>
+        <item>22 years</item>
+        <item>23 years</item>
+        <item>24 years</item>
+        <item>25 years</item>
+
+    </string-array>
+    <string-array name="listMonths">
+    <item>0 Months</item>
+    <item>1 Months</item>
+    <item>2 Months</item>
+    <item>3 Months</item>
+    <item>4 Months</item>
+    <item>5 Months</item>
+    <item>6 Months</item>
+    <item>7 Months</item>
+    <item>8 Months</item>
+    <item>9 Months</item>
+    <item>10 Months</item>
+    <item>11 Months</item>
+    <item>12 Months</item>
+    </string-array>
+</resources>
