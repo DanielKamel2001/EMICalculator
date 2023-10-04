@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Calculate Value and set the message
         double EmiResult = EMIcalc(principalAmount, rateAmount, totalMonthAmount);
-        calcResult.setText("You owe: " + EmiResult);
+        calcResult.setText(String.format("You owe: %.2f",  EmiResult));
         //    calcResult.setText("Hello World " + counter );
         //    counter++;
     }
